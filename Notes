@@ -1,0 +1,7 @@
+Full video : https://www.youtube.com/watch?v=J3iiiLrT1ic&ab_channel=DailyCodeBuffer
+React , Bootstrap , Tailwind css 
+1) https://start.spring.io/ - create springboot api 
+2) create schema and add it to application.config in api 
+3) remove predefined things from react app like logo and app.js 
+4) install Tailwind css in react 
+5) Use rafec to create arrow component 

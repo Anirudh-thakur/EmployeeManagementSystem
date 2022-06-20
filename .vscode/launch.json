@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeeSystemApiApplication<employee-system-API>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.dailycodebuffer.employee.EmployeeSystemApiApplication",
+            "projectName": "employee-system-API",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
